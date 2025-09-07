@@ -1,94 +1,69 @@
-# 👋 Hi, I’m Tayyba Hafeez (@tayybahafeez)  
+# 👋 Hi, I’m Tayyba Hafeez  
 
-Welcome to my GitHub profile! 🚀  
-I’m an **AI/ML Engineer** passionate about building intelligent systems with **Deep Learning, NLP, and Generative AI**.  
-I focus on solving real-world problems with **LLMs, RAG, Agents, and Computer Vision**.  
-
----
-
-## 👀 Interests  
-- 🤖 Large Language Models (LLMs) & Generative AI  
-- 🧠 Deep Learning & Neural Networks (CNNs, RNNs, LSTMs, Transformers)  
-- 🔍 Natural Language Processing (NLP)  
-- 📊 Machine Learning & Predictive Analytics  
-- 🛠️ AI Agent Workflows (CrewAI, AutoGen, LangChain, Custom Orchestrators)  
-- ☁️ Cloud AI (AWS SageMaker, Model Deployment, CI/CD pipelines)  
+🚀 **AI/ML Engineer | Generative AI | Computer Vision | NLP | AI Agents**  
+I specialize in delivering production-ready AI systems that automate workflows, improve accuracy, and reduce costs. With 3+ years of experience, I have built solutions in **Generative AI, RAG, NLP pipelines, Computer Vision, and Multi-Agent systems**.  
 
 ---
 
-## 🌱 Currently Learning & Building  
-- Retrieval-Augmented Generation (**RAG**) systems with FAISS & Pinecone  
-- Multi-Agent Systems using **CrewAI** & **AutoGen**  
-- FastAPI-based AI services & APIs  
-- Deploying optimized **LLMs on mobile (TFLite)** and cloud platforms  
-- Fine-tuning & optimization with **LoRA / QLoRA**  
+## 🔹 Skills & Expertise  
+- **Languages**: Python, C++, SQL  
+- **LLMs & NLP**: Hugging Face Transformers, LangChain, LlamaIndex, CrewAI, ChatGPT API, DeepSeek API, Gemini API  
+- **Retrieval & Vector Stores**: FAISS, ChromaDB, Pinecone  
+- **Computer Vision**: YOLOv8, Mask R-CNN, MobileNet, OpenCV  
+- **Deep Learning**: PyTorch, TensorFlow, CNN, RNN  
+- **Data & Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
+- **Backend & APIs**: FastAPI, Flask, REST APIs  
+- **Databases**: MySQL, MongoDB, NoSQL  
+- **DevOps & MLOps**: Docker, Git, GitLab CI/CD, MLflow, AWS Sagemaker, Google Colab, Jupyter  
+- **Other Tools**: Streamlit, Whisper, Edge TTS, VS Code,N8N
 
 ---
 
-## 💼 Experience Highlights  
-- ✅ **2+ years in AI/ML engineering**  
-- 🚀 Built **KYC AI pipeline** with YOLO v8 + LLaMA → accuracy boosted from 96.1% → 99.3%  
-- 🗂️ Designed **multilingual voice + text chatbot** using Whisper, DeepSeek, and FastAPI  
-- 🔎 Developed **SAP RAG Assistant** to query SAP Business One sales data with FAISS + DeepSeek  
-- 📈 Worked with **LangChain, LlamaIndex, CrewAI, MLflow, Streamlit, CI/CD pipelines**  
-- 🧩 Experienced in **Agile development, debugging, deployment, and team leadership**  
+## 🔹 Professional Experience  
+
+**AI/ML Engineer – Pricoo (2025–Present)**  
+- Fine-tuned GPT, LLaMA, and T5 models for classification, summarization, and text generation.  
+- Built **RAG pipelines** with FAISS, ChromaDB, Pinecone → improved chatbot accuracy by 35%.  
+- Developed **agentic workflows** with DeepSeek + Gemini for dynamic task routing.  
+- Deployed models using **FastAPI + Docker on AWS** for low-latency inference.  
+- Automated ML pipelines with MLflow, implemented scalable NLP systems with LangChain.  
+
+**AI Engineer – Machine Learning 1 (2023–2025)**  
+- Boosted **KYC pipeline accuracy** from 96.1% → 99.3% with YOLOv8 + LLaMA.  
+- Designed **OCR pipelines** with Mask R-CNN, MobileNet, and Google OCR (40% faster, 99% accuracy).  
+- Built multilingual **chatbots** with Gemini, Whisper, and DeepSeek APIs.  
+- Streamlined CI/CD pipelines with GitLab, mentored juniors, improved agile delivery with ClickUp & ManageIt.  
 
 ---
 
-## 📂 Featured Projects  
-🔹 [Agentic_AI_Projects_Workflow](https://github.com/tayybahafeez/Agentic_AI_Projects_Workflow) – Multi-agent workflows using CrewAI, AutoGen, LangChain, and custom orchestrators with memory + vector search.  
-🔹 **KYC AI Pipeline** – Automated customer verification with YOLO v8 + LLaMA models.  
-🔹 **Voice + Text Chatbot** – Multilingual assistant with Whisper + FastAPI.  
-🔹 **SAP RAG Assistant** – Financial reporting & querying SAP data with RAG + DeepSeek.  
+## 🔹 Projects  
+
+- **[Voice + RAG AI Assistant](https://github.com/tayybahafeez/generative_AI_Workflow)** – Whisper + FAISS + Gemini for voice/text query handling.  
+- **[Multi-Agent Research Assistant](https://github.com/tayybahafeez/generative_AI_Workflow/tree/main/Multi_Agent_Research_Assistant)** – Agentic workflow for summarizing PDFs & images using DeepSeek + Gemini.  
+- **[Object Detection with Mask R-CNN & OCR](https://github.com/tayybahafeez/DeepLearning_with_Tensorflow)** – Document detection & text extraction (practice repo, TensorFlow + Google OCR).  
+- **[Cricket Match ML Model](https://github.com/tayybahafeez/cricket_ai_project)** – Predictive ML model with optimized hyperparameters for sports analytics.  
+- **YOLOv8 KYC Pipeline (Company)** – Boosted document verification accuracy from 96.1% → 99.3% by integrating YOLOv8 + LLaMA into the KYC pipeline, improving reliability for projects worth $20M+. *(Private code – company project)*  
+- **SAP Business One RAG Chatbot (Company)** – AI assistant querying live SAP sales data (private).  
+- **Haier AI Chatbot (Company)** – Generative AI solution for customer support (private).  
+- **Magnetismo AI Sales Assistant (Company)** – AI agent for lead generation & objection handling (private).  
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages**: Python, C++  
-**Frameworks & Libraries**: PyTorch, TensorFlow, LangChain, LlamaIndex, HuggingFace Transformers, CrewAI, AutoGen  
-**Databases**: MySQL, FAISS, Pinecone, Weaviate, SAP HANA  
-**DevOps/Tools**: Git, GitHub, GitLab CI/CD, MLflow, Streamlit, Power BI, Tableau, ClickUp, ManageIt  
-**Cloud**: AWS SageMaker, Google Cloud  
+## 🔹 Certifications  
+- Python with Data Science (Udemy)  
+- Deep Learning with PyTorch (Udacity)  
+- Data Analytics & Data Science (DigiSkills)
+- Generative AI (Nvidia)
+- Gen AI and Agents (Udemy)
+- N8N intergration (Edurika)
 
 ---
 
-## 📜 Certifications  
-- 🎓 Python with Data Science – *Udemy*  
-- 🎓 Deep Learning with PyTorch – *Udacity*  
-- 🎓 Data Analytics and Data Science – *DigiSkills*  
+## 🔹 Articles  
+- [Evaluating LLMs: Metrics, Tools, and Implementation](https://medium.com/@tayybahafeez.2022/evaluating-llms-metrics-tools-and-implementation-61b7e058112b)  
+- [How Artificial Analysis Simplifies AI Model Selection with O4-Mini Insights](https://medium.com/@tayybahafeez.2022/how-artificial-analysis-simplifies-ai-model-selection-with-o4-mini-insights-3969bd1a7d2f)  
 
 ---
 
-## 💞️ Collaboration  
-I’m open to collaborating on:  
-- 🤖 AI/ML research & projects  
-- 📚 Education-focused AI assistants (Lecture Q&A, Chatbots, RAG apps)  
-- ⚡ Generative AI & Agentic AI systems  
-- 🖼️ Computer Vision + NLP hybrid solutions  
-
----
-
-## 📊 GitHub Stats  
-![Tayyba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayybahafeez&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayybahafeez&layout=compact&theme=radical)  
-
----
-
-## 📌 GitHub Activity & Trophies  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayybahafeez&theme=radical)  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tayybahafeez&theme=radical&margin-w=10&margin-h=10)  
-
----
-
-## 📫 How to Reach Me  
-- 🔗 GitHub: [@tayybahafeez](https://github.com/tayybahafeez)  
-- 💼 LinkedIn: [Tayyba Hafeez](https://www.linkedin.com/in/tayyba-hafeez-ullah-17980623b/)  
-- 📧 Email: tayybahafeez.2022@gmail.com  
-
----
-
-## ⚡ Fun Fact  
-I enjoy turning **complex AI concepts** into **real-world applications** and constantly push myself to explore new AI frameworks.  
-
----
+💡 *Open to collaborations, freelance AI/ML projects, and building innovative Generative AI solutions.*  
+📫 Let’s connect!  
