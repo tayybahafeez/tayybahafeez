@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tayyba Hafeez  
+# 👋 Hi, I’m Tayyba Hafeezullah 
 
 🚀 **AI/ML Engineer | Generative AI | Computer Vision | NLP | AI Agents**  
 I specialize in delivering production-ready AI systems that automate workflows, improve accuracy, and reduce costs. With 3+ years of experience, I have built solutions in **Generative AI, RAG, NLP pipelines, Computer Vision, and Multi-Agent systems**.  
